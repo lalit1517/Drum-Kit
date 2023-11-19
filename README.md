@@ -1,3 +1,5 @@
+# Catch the live running project at https://drum-kit-bylalit.netlify.app/
+
 # Drum-Kit
 
 Drum-Kit is a simple and interactive web application that allows users to play various drum sounds. Users can either press keyboard keys corresponding to different drum elements or tap on the
