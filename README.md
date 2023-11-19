@@ -1,4 +1,4 @@
-## Catch the live running project at https://drum-kit-bylalit.netlify.app/
+Catch the live running project at https://drum-kit-bylalit.netlify.app/
 
 # Drum-Kit
 
